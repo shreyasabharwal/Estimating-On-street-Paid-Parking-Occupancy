@@ -12,7 +12,7 @@ https://ischool.uw.edu/news/2019/05/msim-team-helps-seattle-get-handle-parking-d
 https://ischool.uw.edu/capstone/projects/2019/data-driven-parking-seattles-belltown-north-neighborhood
 
 
-Tech Stack: Python, PostgreSQL, AWS RDS, Socrata, Jupyter Notebook, Google Colab
+Tech Stack: Python, PostgreSQL, AWS RDS, Socrata API, Jupyter Notebook, Google Colab
 
 Data: City of Seattle Open Data Portal - https://data.seattle.gov/
 
